@@ -1,0 +1,13 @@
+.field {
+	border: 1px solid;
+}
+
+.player--one {
+	fill: blue;
+	border: 0.5px solid black;
+}
+
+.player--two{
+	fill: red;
+	border: 0.5px solid black;
+}
